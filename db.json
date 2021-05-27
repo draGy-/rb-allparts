@@ -1,5 +1,5 @@
 {
-  parts: [
+  "parts": [
   {
       "part_num": "11212",
       "name": "Plate 3 x 3",
@@ -56,4 +56,5 @@
       "part_url": "https://rebrickable.com/parts/13252/windscreen-6-x-13-x-2/",
       "part_img_url": "https://cdn.rebrickable.com/media/parts/elements/6039915.jpg"
    }
+   ]
 }
